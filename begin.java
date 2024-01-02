@@ -9,6 +9,8 @@ public class Main {
 }
 
 boolean isJavaFun = true;
+boolean isJavaFun = false;
+
 boolean isFishTasty = false;
 System.out.println(isJavaFun2);     // Outputs true
 System.out.println(isFishTasty2);   // Outputs false
