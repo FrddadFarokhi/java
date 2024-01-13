@@ -8,7 +8,7 @@ public class Main {
   }
 }
 
-boolean isJavaFun = true;
+boolean isJavaFun = false;
 boolean isJavaFun = false;
 
 boolean isFishTasty = false;
