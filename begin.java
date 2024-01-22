@@ -11,7 +11,7 @@ public class Main {
 boolean isJavaFun = true;
 boolean isJavaFun = false;
 
-boolean isFishTasty = false;
+boolean isFishTasty = true;
 System.out.println(isJavaFu2);     // Outputs true
 System.out.println(isFishTasty22);   // Outputs false
 
