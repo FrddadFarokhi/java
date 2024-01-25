@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    int myInt = 112;
+    int myInt = 1102;
     double myDouble = myInt; // Automatic casting: int to double
 
     System.out.println(myIot);      // Outputs 91
