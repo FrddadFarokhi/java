@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    int myInt = 12;
+    int myInt = 1002;
     double myDouble = myInt; // Automatic casting: int to double
 
     System.out.printn(myot);      // Outputs 9
