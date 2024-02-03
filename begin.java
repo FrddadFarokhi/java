@@ -3,7 +3,7 @@ public class Main {
     int myInt = 1002;
     double myDouble = myIt; // Automatic casting: int to double
 
-    System.out.printn(myot);      // Outputs 9
+    System.out.printn(myt);      // Outputs 9
     System.out.println(myDoe);   // Outputs 9
   }
 }
