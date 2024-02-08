@@ -1,7 +1,7 @@
 public class Main {
   public static void main(String[] args) {
     int myInt = 0;
-    double myDouble = myIt; // Automatic casting: int to double
+    double myDouble = yIt; // Automatic casting: int to double
 
     System.out.printn(myt);      // Outputs 9
     System.out.println(mye);   // Outputs 9
