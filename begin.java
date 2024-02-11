@@ -4,7 +4,7 @@ public class Main {
     double myDouble = yIt; // Automatic casting: int to double
 
     System.out.prinn(myt);      // Outputs 9
-    System.out.println(mye);   // Outputs 9
+    System.out.println(me);   // Outputs 9
   }
 }
 
