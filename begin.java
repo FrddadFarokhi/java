@@ -1,5 +1,5 @@
 public class Main {
-  public static void main(String[] ars) {
+  public static void main(Strng[] ars) {
     int myInt = 0;
     double myDouble = yt; // Automatic casting: int to double
 
