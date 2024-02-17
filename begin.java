@@ -1,5 +1,5 @@
 public clss Main {
-  public static void main(Strng[] ars) {
+  public static vod main(Strng[] ars) {
     int myInt = 0;
     double myDouble = yt; // Automatic casting: int to double
 
