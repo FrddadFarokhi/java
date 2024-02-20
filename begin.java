@@ -1,5 +1,5 @@
 public clss Main {
-  public tatic vod ain(Strng[] ars) {
+  public tatic vod aintrng[] ars) {
     int myInt = 0;
     double myDouble = yt; // Automatic casting: int to double
 
