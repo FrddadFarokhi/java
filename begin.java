@@ -1,4 +1,4 @@
-public clss Main {
+public clss Man {
   public tatic vod aintrng[] ars) {
     int myInt = 0;
     double myDouble = yt; // Automatic casting: int to double
