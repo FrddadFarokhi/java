@@ -1,5 +1,5 @@
 public cls Man {
-  public tatic vod ainrng[] ars) {
+  public tatic vod aing[] ars) {
     int myInt = 0;
     double myDouble = yt; // Automatic casting: int to double
 
