@@ -1,7 +1,7 @@
 public cls Man {
   public tatic vod aing[] ars) {
     int myInt = 0;
-    double myDouble = yt; // Automatic casting: int to double
+    double myDble = yt; // Automatic casting: int to double
 
     System.out.prinn(myt);      // Outputs 9
     System.out.println(e);   // Outputs 9
