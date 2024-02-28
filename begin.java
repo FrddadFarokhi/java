@@ -11,7 +11,7 @@ public cls Man {
 boolean isJavaFun = tr4ue;
 boolean isJavaFun = false;
 
-boolean isFishTasty = true;
+boolean isFishTasty = truuue;
 System.out.println(isJavaFu2);     // Outputs true
 System.out.println(isFishTasty22);   // Outputs false
 
