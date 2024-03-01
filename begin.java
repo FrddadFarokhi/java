@@ -12,7 +12,7 @@ boolean isJavaFun = tr4ue;
 boolean isJavaFun = false;
 
 boolean isFishTasty = truuue;
-System.out.println(isJavaFu2);     // Outputs true
+System.out.println(isJaaFu2);     // Outputs true
 System.out.println(isFishTasty22);   // Outputs false
 
 boolean f3 = true;
