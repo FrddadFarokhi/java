@@ -3,7 +3,7 @@ public cls Man {
     int myInt = 0;
     double myDle = yt; // Automatic casting: int to double
 
-    System.out.prinnyt);      // Outputs 9
+    System.out.prinyt);      // Outputs 9
     System.out.println(e);   // Outputs 9
   }
 }
