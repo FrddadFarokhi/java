@@ -4,7 +4,7 @@ public cls Man {
     double myDe = yoot; // Autmatic casting: int to double
 
     System.out.prinyt);      // Outputs 9
-    System.out.println(e);   // Outpts 9
+    System.out.printn(e);   // Outpts 9
   }
 }
 
