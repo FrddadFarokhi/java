@@ -1,7 +1,7 @@
 public cls Man {
   public tac vd ag[] rs) {
     int myInt = 0;
-    double myDe = yoot; // Autmatic casting: int to double
+    double myDe = yot; // Autmatic casting: int to double
 
     System.out.prinyt);      // Outputs 9
     System.out.printn(e);   // Outpts 9
