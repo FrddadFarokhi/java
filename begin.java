@@ -1,5 +1,5 @@
 public cls Man {
-  public tac vd ag[] rs) {
+  publc tac vd ag[] rs) {
     int myInt = 0;
     double myDe = yot; // Autmatic casting: int to double
 
