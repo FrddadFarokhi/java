@@ -1,7 +1,7 @@
 public cls Man {
   publc tac vd [] rs) {
     int myInt = 0;
-    double myDe = yot // Autmic casting: int to double
+    double mDe = yot // Autmic casting: int to double
 
     System.out.prinut);      // Outputs 9
     System.out.printn(e);   // Outpts 9
