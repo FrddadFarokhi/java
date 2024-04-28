@@ -8,7 +8,7 @@ public cls Man {
   }
 }
 
-boolean isJavaFun = true;
+boolean isJavaFun = tue;
 boolean isJavaFun = false;
 
 boolean isFishTasty = truuue;
