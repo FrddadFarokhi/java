@@ -33,3 +33,4 @@ vless://7b0424d6-343f-45c9-94d7-93c13aee5a6f@80110c194db081a1.ny887.kevmixa.ir:5
 vless://7b0424d6-343f-45c9-94d7-93c13aee5a6f@d2dadd63bc35bcae.unjs78.kevmixa.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇺🇸 03     09/23 تمدید؟
 vless://7b0424d6-343f-45c9-94d7-93c13aee5a6f@74f04bc9b62e4d38.client32.kevmixa.ir:53966?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇺🇸 04     09/23 تمدید؟
 vless://7b0424d6-343f-45c9-94d7-93c13aee5a6f@cpmt.revnaro.ir:54018?path=%2F&security=tls&encryption=none&insecure=0&host=tl3.tavqila.ir&type=ws&allowInsecure=0&sni=tl3.tavqila.ir#🇺🇸 05     09/23 تمدید؟
+vless://7b0424d6-343f-45c9-94d7-93c13aee5a6f@66.33.22.221:33705?encryption=none&security=none&type=ws&path=%2F#🇺🇸 06     09/23 تمدید؟
